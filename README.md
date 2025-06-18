@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm currently in learning phase<br> Loves my bugs<br>Probably stuck between YouTube and VS Code, installing any library or debugging -- ugh.<br> Fun fact: Nothing funny </p>
+<p align="left">I'm currently a student <br> I am excited about new technologies<br>Probably stuck between YouTube and VS Code, installing any library or debugging -- ugh.<br> Fun fact: Nothing funny </p>
 
 ###
 
