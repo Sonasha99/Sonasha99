@@ -1,4 +1,4 @@
-<h1 align="left">Gm, Happy Codeing</h1>
+<h1 align="left">Gm, Coder?</h1>
 
 ###
 
