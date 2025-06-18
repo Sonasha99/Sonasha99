@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm currently a student <br> Excited about learning new technologies<br>Probably stuck between YouTube and VS Code, installing any library or debugging -- ugh. </p>
+<p align="left">I'm currently a student <br> Excited about learning new technologies<br>Probably stuck between YouTube and VS Code, installing any library or debugging </p>
 
 ###
 
