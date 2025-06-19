@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Welcome to my GitHub, I'm a Sonasha Choudhary -- a girlie coder</p>
+<p align="left"> Welcome to my GitHub, I'm Sonasha Choudhary -- a girlie coder</p>
 
 ###
 
